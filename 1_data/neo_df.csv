@@ -1,0 +1,301 @@
+instrument,alpha,key,text,label,row,scale,item
+NEO,0.78,1,Go straight for the goal.,Achievement-Striving,3125,NEO_Achievement-Striving,NEO_Achievement-Striving_01
+NEO,0.78,1,Plunge into tasks with all my heart.,Achievement-Striving,3126,NEO_Achievement-Striving,NEO_Achievement-Striving_02
+NEO,0.78,1,Demand quality.,Achievement-Striving,3127,NEO_Achievement-Striving,NEO_Achievement-Striving_03
+NEO,0.78,1,Set high standards for myself and others.,Achievement-Striving,3128,NEO_Achievement-Striving,NEO_Achievement-Striving_04
+NEO,0.78,1,Turn plans into actions.,Achievement-Striving,3129,NEO_Achievement-Striving,NEO_Achievement-Striving_05
+NEO,0.78,1,Do more than what's expected of me.,Achievement-Striving,3130,NEO_Achievement-Striving,NEO_Achievement-Striving_06
+NEO,0.78,1,Work hard.,Achievement-Striving,3131,NEO_Achievement-Striving,NEO_Achievement-Striving_07
+NEO,0.78,-1,Do just enough work to get by.,Achievement-Striving,3132,NEO_Achievement-Striving,NEO_Achievement-Striving_08
+NEO,0.78,-1,Am not highly motivated to succeed.,Achievement-Striving,3133,NEO_Achievement-Striving,NEO_Achievement-Striving_09
+NEO,0.78,-1,Put little time and effort into my work.,Achievement-Striving,3134,NEO_Achievement-Striving,NEO_Achievement-Striving_10
+NEO,0.71,1,Am always on the go.,Activity-Level,3135,NEO_Activity-Level,NEO_Activity-Level_01
+NEO,0.71,1,Am always busy.,Activity-Level,3136,NEO_Activity-Level,NEO_Activity-Level_02
+NEO,0.71,1,React quickly.,Activity-Level,3137,NEO_Activity-Level,NEO_Activity-Level_03
+NEO,0.71,1,Can manage many things at the same time.,Activity-Level,3138,NEO_Activity-Level,NEO_Activity-Level_04
+NEO,0.71,1,Do a lot in my spare time.,Activity-Level,3139,NEO_Activity-Level,NEO_Activity-Level_05
+NEO,0.71,-1,React slowly.,Activity-Level,3140,NEO_Activity-Level,NEO_Activity-Level_06
+NEO,0.71,-1,Like to take my time.,Activity-Level,3141,NEO_Activity-Level,NEO_Activity-Level_07
+NEO,0.71,-1,Like a leisurely lifestyle.,Activity-Level,3142,NEO_Activity-Level,NEO_Activity-Level_08
+NEO,0.71,-1,Like to take it easy.,Activity-Level,3143,NEO_Activity-Level,NEO_Activity-Level_09
+NEO,0.71,-1,Let things proceed at their own pace.,Activity-Level,3144,NEO_Activity-Level,NEO_Activity-Level_10
+NEO,0.77,1,Like to visit new places.,Adventurousness,3145,NEO_Adventurousness,NEO_Adventurousness_01
+NEO,0.77,1,Interested in many things.,Adventurousness,3146,NEO_Adventurousness,NEO_Adventurousness_02
+NEO,0.77,1,Prefer variety to routine.,Adventurousness,3147,NEO_Adventurousness,NEO_Adventurousness_03
+NEO,0.77,1,Like to begin new things.,Adventurousness,3148,NEO_Adventurousness,NEO_Adventurousness_04
+NEO,0.77,-1,Don't like the idea of change.,Adventurousness,3149,NEO_Adventurousness,NEO_Adventurousness_05
+NEO,0.77,-1,Prefer to stick with things that I know.,Adventurousness,3150,NEO_Adventurousness,NEO_Adventurousness_06
+NEO,0.77,-1,Dislike changes.,Adventurousness,3151,NEO_Adventurousness,NEO_Adventurousness_07
+NEO,0.77,-1,Am a creature of habit.,Adventurousness,3152,NEO_Adventurousness,NEO_Adventurousness_08
+NEO,0.77,-1,Am attached to conventional ways.,Adventurousness,3153,NEO_Adventurousness,NEO_Adventurousness_09
+NEO,0.77,-1,Dislike new foods.,Adventurousness,3154,NEO_Adventurousness,NEO_Adventurousness_10
+NEO,0.84,1,Love flowers.,Aesthetic Appreciation/Artistic Interests,3155,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_01
+NEO,0.84,1,Like music.,Aesthetic Appreciation/Artistic Interests,3156,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_02
+NEO,0.84,1,See beauty in things that others might not notice.,Aesthetic Appreciation/Artistic Interests,3157,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_03
+NEO,0.84,1,Believe in the importance of art.,Aesthetic Appreciation/Artistic Interests,3158,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_04
+NEO,0.84,1,Enjoy the beauty of nature.,Aesthetic Appreciation/Artistic Interests,3159,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_05
+NEO,0.84,-1,Do not like poetry.,Aesthetic Appreciation/Artistic Interests,3160,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_06
+NEO,0.84,-1,Do not enjoy watching dance performances.,Aesthetic Appreciation/Artistic Interests,3161,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_07
+NEO,0.84,-1,Do not enjoy going to art museums.,Aesthetic Appreciation/Artistic Interests,3162,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_08
+NEO,0.84,-1,Do not like art.,Aesthetic Appreciation/Artistic Interests,3163,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_09
+NEO,0.84,-1,Do not like concerts.,Aesthetic Appreciation/Artistic Interests,3164,NEO_Aesthetic Appreciation/Artistic Interests,NEO_Aesthetic Appreciation/Artistic Interests_10
+NEO,0.77,1,Anticipate the needs of others.,Altruism,3165,NEO_Altruism,NEO_Altruism_01
+NEO,0.77,1,Love to help others.,Altruism,3166,NEO_Altruism,NEO_Altruism_02
+NEO,0.77,1,Have a good word for everyone.,Altruism,3167,NEO_Altruism,NEO_Altruism_03
+NEO,0.77,1,Make people feel welcome.,Altruism,3168,NEO_Altruism,NEO_Altruism_04
+NEO,0.77,1,Am concerned about others.,Altruism,3169,NEO_Altruism,NEO_Altruism_05
+NEO,0.77,-1,Am indifferent to the feelings of others.,Altruism,3170,NEO_Altruism,NEO_Altruism_06
+NEO,0.77,-1,Turn my back on others.,Altruism,3171,NEO_Altruism,NEO_Altruism_07
+NEO,0.77,-1,Make people feel uncomfortable.,Altruism,3172,NEO_Altruism,NEO_Altruism_08
+NEO,0.77,-1,Look down on others.,Altruism,3173,NEO_Altruism,NEO_Altruism_09
+NEO,0.77,-1,Take no time for others.,Altruism,3174,NEO_Altruism,NEO_Altruism_10
+NEO,0.88,1,Get irritated easily.,Anger,3175,NEO_Anger,NEO_Anger_01
+NEO,0.88,1,Am often in a bad mood.,Anger,3176,NEO_Anger,NEO_Anger_02
+NEO,0.88,1,Get angry easily.,Anger,3177,NEO_Anger,NEO_Anger_03
+NEO,0.88,1,Lose my temper.,Anger,3178,NEO_Anger,NEO_Anger_04
+NEO,0.88,1,Get upset easily.,Anger,3179,NEO_Anger,NEO_Anger_05
+NEO,0.88,-1,Am not easily annoyed.,Anger,3180,NEO_Anger,NEO_Anger_06
+NEO,0.88,-1,Rarely get irritated.,Anger,3181,NEO_Anger,NEO_Anger_07
+NEO,0.88,-1,Seldom get mad.,Anger,3182,NEO_Anger,NEO_Anger_08
+NEO,0.88,-1,Keep my cool.,Anger,3183,NEO_Anger,NEO_Anger_09
+NEO,0.88,-1,Rarely complain.,Anger,3184,NEO_Anger,NEO_Anger_10
+NEO,0.83,1,Am afraid of many things.,Anxiety,3185,NEO_Anxiety,NEO_Anxiety_01
+NEO,0.83,1,Get stressed out easily.,Anxiety,3186,NEO_Anxiety,NEO_Anxiety_02
+NEO,0.83,1,Get caught up in my problems.,Anxiety,3187,NEO_Anxiety,NEO_Anxiety_03
+NEO,0.83,1,Worry about things.,Anxiety,3188,NEO_Anxiety,NEO_Anxiety_04
+NEO,0.83,1,Fear for the worst.,Anxiety,3189,NEO_Anxiety,NEO_Anxiety_05
+NEO,0.83,-1,Adapt easily to new situations.,Anxiety,3190,NEO_Anxiety,NEO_Anxiety_06
+NEO,0.83,-1,Am relaxed most of the time.,Anxiety,3191,NEO_Anxiety,NEO_Anxiety_07
+NEO,0.83,-1,Am not easily disturbed by events.,Anxiety,3192,NEO_Anxiety,NEO_Anxiety_08
+NEO,0.83,-1,Am not easily bothered by things.,Anxiety,3193,NEO_Anxiety,NEO_Anxiety_09
+NEO,0.83,-1,Don't worry about things that have already happened.,Anxiety,3194,NEO_Anxiety,NEO_Anxiety_10
+NEO,0.84,1,Take charge.,Assertiveness,3195,NEO_Assertiveness,NEO_Assertiveness_01
+NEO,0.84,1,Can talk others into doing things.,Assertiveness,3196,NEO_Assertiveness,NEO_Assertiveness_02
+NEO,0.84,1,Try to lead others.,Assertiveness,3197,NEO_Assertiveness,NEO_Assertiveness_03
+NEO,0.84,1,Take control of things.,Assertiveness,3198,NEO_Assertiveness,NEO_Assertiveness_04
+NEO,0.84,1,Seek to influence others.,Assertiveness,3199,NEO_Assertiveness,NEO_Assertiveness_05
+NEO,0.84,-1,Hold back my opinions.,Assertiveness,3200,NEO_Assertiveness,NEO_Assertiveness_06
+NEO,0.84,-1,Keep in the background.,Assertiveness,3201,NEO_Assertiveness,NEO_Assertiveness_07
+NEO,0.84,-1,Have little to say.,Assertiveness,3202,NEO_Assertiveness,NEO_Assertiveness_08
+NEO,0.84,-1,Don't like to draw attention to myself.,Assertiveness,3203,NEO_Assertiveness,NEO_Assertiveness_09
+NEO,0.84,-1,Wait for others to lead the way.,Assertiveness,3204,NEO_Assertiveness,NEO_Assertiveness_10
+NEO,0.76,1,Stick to my chosen path.,Cautiousness,3205,NEO_Cautiousness,NEO_Cautiousness_01
+NEO,0.76,1,Avoid mistakes.,Cautiousness,3206,NEO_Cautiousness,NEO_Cautiousness_02
+NEO,0.76,1,Choose my words with care.,Cautiousness,3207,NEO_Cautiousness,NEO_Cautiousness_03
+NEO,0.76,-1,Make rash decisions.,Cautiousness,3208,NEO_Cautiousness,NEO_Cautiousness_04
+NEO,0.76,-1,Act without thinking.,Cautiousness,3209,NEO_Cautiousness,NEO_Cautiousness_05
+NEO,0.76,-1,Jump into things without thinking.,Cautiousness,3210,NEO_Cautiousness,NEO_Cautiousness_06
+NEO,0.76,-1,Rush into things.,Cautiousness,3211,NEO_Cautiousness,NEO_Cautiousness_07
+NEO,0.76,-1,Like to act on a whim.,Cautiousness,3212,NEO_Cautiousness,NEO_Cautiousness_08
+NEO,0.76,-1,Often make last-minute plans.,Cautiousness,3213,NEO_Cautiousness,NEO_Cautiousness_09
+NEO,0.76,-1,Do crazy things.,Cautiousness,3214,NEO_Cautiousness,NEO_Cautiousness_10
+NEO,0.81,1,Amuse my friends.,Cheerfulness,3215,NEO_Cheerfulness,NEO_Cheerfulness_01
+NEO,0.81,1,Look at the bright side of life.,Cheerfulness,3216,NEO_Cheerfulness,NEO_Cheerfulness_02
+NEO,0.81,1,Love life.,Cheerfulness,3217,NEO_Cheerfulness,NEO_Cheerfulness_03
+NEO,0.81,1,Laugh aloud.,Cheerfulness,3218,NEO_Cheerfulness,NEO_Cheerfulness_04
+NEO,0.81,1,Express childlike joy.,Cheerfulness,3219,NEO_Cheerfulness,NEO_Cheerfulness_05
+NEO,0.81,1,Radiate joy.,Cheerfulness,3220,NEO_Cheerfulness,NEO_Cheerfulness_06
+NEO,0.81,1,Laugh my way through life.,Cheerfulness,3221,NEO_Cheerfulness,NEO_Cheerfulness_07
+NEO,0.81,1,Have a lot of fun.,Cheerfulness,3222,NEO_Cheerfulness,NEO_Cheerfulness_08
+NEO,0.81,-1,Seldom joke around.,Cheerfulness,3223,NEO_Cheerfulness,NEO_Cheerfulness_09
+NEO,0.81,-1,Am not easily amused.,Cheerfulness,3224,NEO_Cheerfulness,NEO_Cheerfulness_10
+NEO,0.73,1,Am easy to satisfy.,Cooperation,3225,NEO_Cooperation,NEO_Cooperation_01
+NEO,0.73,1,Can't stand confrontations.,Cooperation,3226,NEO_Cooperation,NEO_Cooperation_02
+NEO,0.73,1,Hate to seem pushy.,Cooperation,3227,NEO_Cooperation,NEO_Cooperation_03
+NEO,0.73,-1,Insult people.,Cooperation,3228,NEO_Cooperation,NEO_Cooperation_04
+NEO,0.73,-1,Yell at people.,Cooperation,3229,NEO_Cooperation,NEO_Cooperation_05
+NEO,0.73,-1,Hold a grudge.,Cooperation,3230,NEO_Cooperation,NEO_Cooperation_06
+NEO,0.73,-1,Love a good fight.,Cooperation,3231,NEO_Cooperation,NEO_Cooperation_07
+NEO,0.73,-1,Contradict others.,Cooperation,3232,NEO_Cooperation,NEO_Cooperation_08
+NEO,0.73,-1,Have a sharp tongue.,Cooperation,3233,NEO_Cooperation,NEO_Cooperation_09
+NEO,0.73,-1,Get back at others.,Cooperation,3234,NEO_Cooperation,NEO_Cooperation_10
+NEO,0.88,1,Feel that my life lacks direction.,Depression,3235,NEO_Depression,NEO_Depression_01
+NEO,0.88,1,Am often down in the dumps.,Depression,3236,NEO_Depression,NEO_Depression_02
+NEO,0.88,1,Have frequent mood swings.,Depression,3237,NEO_Depression,NEO_Depression_03
+NEO,0.88,1,Dislike myself.,Depression,3238,NEO_Depression,NEO_Depression_04
+NEO,0.88,1,Often feel blue.,Depression,3239,NEO_Depression,NEO_Depression_05
+NEO,0.88,1,Have a low opinion of myself.,Depression,3240,NEO_Depression,NEO_Depression_06
+NEO,0.88,1,Feel desperate.,Depression,3241,NEO_Depression,NEO_Depression_07
+NEO,0.88,-1,Seldom feel blue.,Depression,3242,NEO_Depression,NEO_Depression_08
+NEO,0.88,-1,Feel comfortable with myself.,Depression,3243,NEO_Depression,NEO_Depression_09
+NEO,0.88,-1,Am very pleased with myself.,Depression,3244,NEO_Depression,NEO_Depression_10
+NEO,0.71,1,Keep my promises.,Dutifulness,3245,NEO_Dutifulness,NEO_Dutifulness_01
+NEO,0.71,1,Tell the truth.,Dutifulness,3246,NEO_Dutifulness,NEO_Dutifulness_02
+NEO,0.71,1,Pay my bills on time.,Dutifulness,3247,NEO_Dutifulness,NEO_Dutifulness_03
+NEO,0.71,1,Listen to my conscience.,Dutifulness,3248,NEO_Dutifulness,NEO_Dutifulness_04
+NEO,0.71,1,Try to follow the rules.,Dutifulness,3249,NEO_Dutifulness,NEO_Dutifulness_05
+NEO,0.71,-1,Break rules.,Dutifulness,3250,NEO_Dutifulness,NEO_Dutifulness_06
+NEO,0.71,-1,Misrepresent the facts.,Dutifulness,3251,NEO_Dutifulness,NEO_Dutifulness_07
+NEO,0.71,-1,Break my promises.,Dutifulness,3252,NEO_Dutifulness,NEO_Dutifulness_08
+NEO,0.71,-1,Do the opposite of what is asked.,Dutifulness,3253,NEO_Dutifulness,NEO_Dutifulness_09
+NEO,0.71,-1,Get others to do my duties.,Dutifulness,3254,NEO_Dutifulness,NEO_Dutifulness_10
+NEO,0.81,1,Experience my emotions intensely.,Emotionality,3255,NEO_Emotionality,NEO_Emotionality_01
+NEO,0.81,1,Feel others' emotions.,Emotionality,3256,NEO_Emotionality,NEO_Emotionality_02
+NEO,0.81,1,Try to understand myself.,Emotionality,3257,NEO_Emotionality,NEO_Emotionality_03
+NEO,0.81,1,Am passionate about causes.,Emotionality,3258,NEO_Emotionality,NEO_Emotionality_04
+NEO,0.81,1,Enjoy examining myself and my life.,Emotionality,3259,NEO_Emotionality,NEO_Emotionality_05
+NEO,0.81,-1,Seldom get emotional.,Emotionality,3260,NEO_Emotionality,NEO_Emotionality_06
+NEO,0.81,-1,Experience very few emotional highs and lows.,Emotionality,3261,NEO_Emotionality,NEO_Emotionality_07
+NEO,0.81,-1,Am not easily affected by my emotions.,Emotionality,3262,NEO_Emotionality,NEO_Emotionality_08
+NEO,0.81,-1,Don't understand people who get emotional.,Emotionality,3263,NEO_Emotionality,NEO_Emotionality_09
+NEO,0.81,-1,Rarely notice my emotional reactions.,Emotionality,3264,NEO_Emotionality,NEO_Emotionality_10
+NEO,0.78,1,Love excitement.,Excitement-Seeking,3265,NEO_Excitement-Seeking,NEO_Excitement-Seeking_01
+NEO,0.78,1,Enjoy being part of a loud crowd.,Excitement-Seeking,3266,NEO_Excitement-Seeking,NEO_Excitement-Seeking_02
+NEO,0.78,1,Seek danger.,Excitement-Seeking,3267,NEO_Excitement-Seeking,NEO_Excitement-Seeking_03
+NEO,0.78,1,Act wild and crazy.,Excitement-Seeking,3268,NEO_Excitement-Seeking,NEO_Excitement-Seeking_04
+NEO,0.78,1,Willing to try anything once.,Excitement-Seeking,3269,NEO_Excitement-Seeking,NEO_Excitement-Seeking_05
+NEO,0.78,1,Seek adventure.,Excitement-Seeking,3270,NEO_Excitement-Seeking,NEO_Excitement-Seeking_06
+NEO,0.78,1,Love action.,Excitement-Seeking,3271,NEO_Excitement-Seeking,NEO_Excitement-Seeking_07
+NEO,0.78,1,Enjoy being reckless.,Excitement-Seeking,3272,NEO_Excitement-Seeking,NEO_Excitement-Seeking_08
+NEO,0.78,-1,Dislike loud music.,Excitement-Seeking,3273,NEO_Excitement-Seeking,NEO_Excitement-Seeking_09
+NEO,0.78,-1,Would never go hang gliding or bungee jumping.,Excitement-Seeking,3274,NEO_Excitement-Seeking,NEO_Excitement-Seeking_10
+NEO,0.87,1,Make friends easily.,Friendliness,3275,NEO_Friendliness,NEO_Friendliness_01
+NEO,0.87,1,Act comfortably with others.,Friendliness,3276,NEO_Friendliness,NEO_Friendliness_02
+NEO,0.87,1,Feel comfortable around people.,Friendliness,3277,NEO_Friendliness,NEO_Friendliness_03
+NEO,0.87,1,Cheer people up.,Friendliness,3278,NEO_Friendliness,NEO_Friendliness_04
+NEO,0.87,1,Warm up quickly to others.,Friendliness,3279,NEO_Friendliness,NEO_Friendliness_05
+NEO,0.87,-1,Keep others at a distance.,Friendliness,3280,NEO_Friendliness,NEO_Friendliness_06
+NEO,0.87,-1,Often feel uncomfortable around others.,Friendliness,3281,NEO_Friendliness,NEO_Friendliness_07
+NEO,0.87,-1,Avoid contacts with others.,Friendliness,3282,NEO_Friendliness,NEO_Friendliness_08
+NEO,0.87,-1,Am not really interested in others.,Friendliness,3283,NEO_Friendliness,NEO_Friendliness_09
+NEO,0.87,-1,Am hard to get to know.,Friendliness,3284,NEO_Friendliness,NEO_Friendliness_10
+NEO,0.79,1,Enjoy being part of a group.,Gregariousness,3285,NEO_Gregariousness,NEO_Gregariousness_01
+NEO,0.79,1,Involve others in what I am doing.,Gregariousness,3286,NEO_Gregariousness,NEO_Gregariousness_02
+NEO,0.79,1,Love surprise parties.,Gregariousness,3287,NEO_Gregariousness,NEO_Gregariousness_03
+NEO,0.79,1,Talk to a lot of different people at parties.,Gregariousness,3288,NEO_Gregariousness,NEO_Gregariousness_04
+NEO,0.79,1,Love large parties.,Gregariousness,3289,NEO_Gregariousness,NEO_Gregariousness_05
+NEO,0.79,-1,Prefer to be alone.,Gregariousness,3290,NEO_Gregariousness,NEO_Gregariousness_06
+NEO,0.79,-1,Seek quiet.,Gregariousness,3291,NEO_Gregariousness,NEO_Gregariousness_07
+NEO,0.79,-1,Don't like crowded events.,Gregariousness,3292,NEO_Gregariousness,NEO_Gregariousness_08
+NEO,0.79,-1,Avoid crowds.,Gregariousness,3293,NEO_Gregariousness,NEO_Gregariousness_09
+NEO,0.79,-1,Want to be left alone.,Gregariousness,3294,NEO_Gregariousness,NEO_Gregariousness_10
+NEO,0.83,1,Like to get lost in thought.,Imagination,3295,NEO_Imagination,NEO_Imagination_01
+NEO,0.83,1,Enjoy wild flights of fantasy.,Imagination,3296,NEO_Imagination,NEO_Imagination_02
+NEO,0.83,1,Love to daydream.,Imagination,3297,NEO_Imagination,NEO_Imagination_03
+NEO,0.83,1,Indulge in my fantasies.,Imagination,3298,NEO_Imagination,NEO_Imagination_04
+NEO,0.83,1,Have a vivid imagination.,Imagination,3299,NEO_Imagination,NEO_Imagination_05
+NEO,0.83,1,Spend time reflecting on things.,Imagination,3300,NEO_Imagination,NEO_Imagination_06
+NEO,0.83,-1,Seldom daydream.,Imagination,3301,NEO_Imagination,NEO_Imagination_07
+NEO,0.83,-1,Have difficulty imagining things.,Imagination,3302,NEO_Imagination,NEO_Imagination_08
+NEO,0.83,-1,Seldom get lost in thought.,Imagination,3303,NEO_Imagination,NEO_Imagination_09
+NEO,0.83,-1,Do not have a good imagination.,Imagination,3304,NEO_Imagination,NEO_Imagination_10
+NEO,0.77,1,Love to eat.,Immoderation,3305,NEO_Immoderation,NEO_Immoderation_01
+NEO,0.77,1,Often eat too much.,Immoderation,3306,NEO_Immoderation,NEO_Immoderation_02
+NEO,0.77,1,Don't know why I do some of the things I do.,Immoderation,3307,NEO_Immoderation,NEO_Immoderation_03
+NEO,0.77,1,Do things I later regret.,Immoderation,3308,NEO_Immoderation,NEO_Immoderation_04
+NEO,0.77,1,Go on binges.,Immoderation,3309,NEO_Immoderation,NEO_Immoderation_05
+NEO,0.77,-1,Rarely overindulge.,Immoderation,3310,NEO_Immoderation,NEO_Immoderation_06
+NEO,0.77,-1,Am able to control my cravings.,Immoderation,3311,NEO_Immoderation,NEO_Immoderation_07
+NEO,0.77,-1,Never splurge.,Immoderation,3312,NEO_Immoderation,NEO_Immoderation_08
+NEO,0.77,-1,Never spend more than I can afford.,Immoderation,3313,NEO_Immoderation,NEO_Immoderation_09
+NEO,0.77,-1,Easily resist temptations.,Immoderation,3314,NEO_Immoderation,NEO_Immoderation_10
+NEO,0.86,1,Can handle a lot of information.,Intellect,3315,NEO_Intellect,NEO_Intellect_01
+NEO,0.86,1,Enjoy thinking about things.,Intellect,3316,NEO_Intellect,NEO_Intellect_02
+NEO,0.86,1,Have a rich vocabulary.,Intellect,3317,NEO_Intellect,NEO_Intellect_03
+NEO,0.86,1,Like to solve complex problems.,Intellect,3318,NEO_Intellect,NEO_Intellect_04
+NEO,0.86,1,Love to read challenging material.,Intellect,3319,NEO_Intellect,NEO_Intellect_05
+NEO,0.86,-1,Am not interested in theoretical discussions.,Intellect,3320,NEO_Intellect,NEO_Intellect_06
+NEO,0.86,-1,Have difficulty understanding abstract ideas.,Intellect,3321,NEO_Intellect,NEO_Intellect_07
+NEO,0.86,-1,Avoid difficult reading material.,Intellect,3322,NEO_Intellect,NEO_Intellect_08
+NEO,0.86,-1,Am not interested in abstract ideas.,Intellect,3323,NEO_Intellect,NEO_Intellect_09
+NEO,0.86,-1,Avoid philosophical discussions.,Intellect,3324,NEO_Intellect,NEO_Intellect_10
+NEO,0.86,1,Believe that there is no absolute right or wrong.,Liberalism,3325,NEO_Liberalism,NEO_Liberalism_01
+NEO,0.86,1,Tend to vote for liberal political candidates.,Liberalism,3326,NEO_Liberalism,NEO_Liberalism_02
+NEO,0.86,1,Believe that criminals should receive help rather than punishment.,Liberalism,3327,NEO_Liberalism,NEO_Liberalism_03
+NEO,0.86,-1,Believe laws should be strictly enforced.,Liberalism,3328,NEO_Liberalism,NEO_Liberalism_04
+NEO,0.86,-1,Believe that we coddle criminals too much.,Liberalism,3329,NEO_Liberalism,NEO_Liberalism_05
+NEO,0.86,-1,Tend to vote for conservative political candidates.,Liberalism,3330,NEO_Liberalism,NEO_Liberalism_06
+NEO,0.86,-1,Believe that too much tax money goes to support artists.,Liberalism,3331,NEO_Liberalism,NEO_Liberalism_07
+NEO,0.86,-1,Believe that we should be tough on crime.,Liberalism,3332,NEO_Liberalism,NEO_Liberalism_08
+NEO,0.86,-1,Like to stand during the national anthem.,Liberalism,3333,NEO_Liberalism,NEO_Liberalism_09
+NEO,0.86,-1,Believe in one true religion.,Liberalism,3334,NEO_Liberalism,NEO_Liberalism_10
+NEO,0.77,1,Dislike being the center of attention.,Modesty/Humility,3335,NEO_Modesty/Humility,NEO_Modesty/Humility_01
+NEO,0.77,1,Dislike talking about myself.,Modesty/Humility,3336,NEO_Modesty/Humility,NEO_Modesty/Humility_02
+NEO,0.77,1,Seldom toot my own horn.,Modesty/Humility,3337,NEO_Modesty/Humility,NEO_Modesty/Humility_03
+NEO,0.77,1,Consider myself an average person.,Modesty/Humility,3338,NEO_Modesty/Humility,NEO_Modesty/Humility_04
+NEO,0.77,-1,Believe that I am better than others.,Modesty/Humility,3339,NEO_Modesty/Humility,NEO_Modesty/Humility_05
+NEO,0.77,-1,Think highly of myself.,Modesty/Humility,3340,NEO_Modesty/Humility,NEO_Modesty/Humility_06
+NEO,0.77,-1,Boast about my virtues.,Modesty/Humility,3341,NEO_Modesty/Humility,NEO_Modesty/Humility_07
+NEO,0.77,-1,Have a high opinion of myself.,Modesty/Humility,3342,NEO_Modesty/Humility,NEO_Modesty/Humility_08
+NEO,0.77,-1,Know the answers to many questions.,Modesty/Humility,3343,NEO_Modesty/Humility,NEO_Modesty/Humility_09
+NEO,0.77,-1,Make myself the center of attention.,Modesty/Humility,3344,NEO_Modesty/Humility,NEO_Modesty/Humility_10
+NEO,0.75,1,Would never cheat on my taxes.,Morality,3345,NEO_Morality,NEO_Morality_01
+NEO,0.75,1,Stick to the rules.,Morality,3346,NEO_Morality,NEO_Morality_02
+NEO,0.75,-1,Take advantage of others.,Morality,3347,NEO_Morality,NEO_Morality_03
+NEO,0.75,-1,Use flattery to get ahead.,Morality,3348,NEO_Morality,NEO_Morality_04
+NEO,0.75,-1,Know how to get around the rules.,Morality,3349,NEO_Morality,NEO_Morality_05
+NEO,0.75,-1,Put people under pressure.,Morality,3350,NEO_Morality,NEO_Morality_06
+NEO,0.75,-1,Obstruct others' plans.,Morality,3351,NEO_Morality,NEO_Morality_07
+NEO,0.75,-1,Use others for my own ends.,Morality,3352,NEO_Morality,NEO_Morality_08
+NEO,0.75,-1,Cheat to get ahead.,Morality,3353,NEO_Morality,NEO_Morality_09
+NEO,0.75,-1,Pretend to be concerned for others.,Morality,3354,NEO_Morality,NEO_Morality_10
+NEO,0.82,1,Like order.,Orderliness,3355,NEO_Orderliness,NEO_Orderliness_01
+NEO,0.82,1,Do things according to a plan.,Orderliness,3356,NEO_Orderliness,NEO_Orderliness_02
+NEO,0.82,1,Want everything to be just right.,Orderliness,3357,NEO_Orderliness,NEO_Orderliness_03
+NEO,0.82,1,Love order and regularity.,Orderliness,3358,NEO_Orderliness,NEO_Orderliness_04
+NEO,0.82,1,Like to tidy up.,Orderliness,3359,NEO_Orderliness,NEO_Orderliness_05
+NEO,0.82,-1,Often forget to put things back in their proper place.,Orderliness,3360,NEO_Orderliness,NEO_Orderliness_06
+NEO,0.82,-1,Leave a mess in my room.,Orderliness,3361,NEO_Orderliness,NEO_Orderliness_07
+NEO,0.82,-1,Am not bothered by messy people.,Orderliness,3362,NEO_Orderliness,NEO_Orderliness_08
+NEO,0.82,-1,Am not bothered by disorder.,Orderliness,3363,NEO_Orderliness,NEO_Orderliness_09
+NEO,0.82,-1,Leave my belongings around.,Orderliness,3364,NEO_Orderliness,NEO_Orderliness_10
+NEO,0.8,1,Find it difficult to approach others.,Self-consciousness,3365,NEO_Self-consciousness,NEO_Self-consciousness_01
+NEO,0.8,1,Am easily intimidated.,Self-consciousness,3366,NEO_Self-consciousness,NEO_Self-consciousness_02
+NEO,0.8,1,Only feel comfortable with friends.,Self-consciousness,3367,NEO_Self-consciousness,NEO_Self-consciousness_03
+NEO,0.8,1,Stumble over my words.,Self-consciousness,3368,NEO_Self-consciousness,NEO_Self-consciousness_04
+NEO,0.8,1,Am afraid to draw attention to myself.,Self-consciousness,3369,NEO_Self-consciousness,NEO_Self-consciousness_05
+NEO,0.8,1,Am afraid that I will do the wrong thing.,Self-consciousness,3370,NEO_Self-consciousness,NEO_Self-consciousness_06
+NEO,0.8,-1,Am not embarrassed easily.,Self-consciousness,3371,NEO_Self-consciousness,NEO_Self-consciousness_07
+NEO,0.8,-1,Am able to stand up for myself.,Self-consciousness,3372,NEO_Self-consciousness,NEO_Self-consciousness_08
+NEO,0.8,-1,Am comfortable in unfamiliar situations.,Self-consciousness,3373,NEO_Self-consciousness,NEO_Self-consciousness_09
+NEO,0.8,-1,Am not bothered by difficult social situations.,Self-consciousness,3374,NEO_Self-consciousness,NEO_Self-consciousness_10
+NEO,0.85,1,Get chores done right away.,Self-Discipline,3375,NEO_Self-Discipline,NEO_Self-Discipline_01
+NEO,0.85,1,Am always prepared.,Self-Discipline,3376,NEO_Self-Discipline,NEO_Self-Discipline_02
+NEO,0.85,1,Get to work at once.,Self-Discipline,3377,NEO_Self-Discipline,NEO_Self-Discipline_03
+NEO,0.85,1,Carry out my plans.,Self-Discipline,3378,NEO_Self-Discipline,NEO_Self-Discipline_04
+NEO,0.85,1,Start tasks right away.,Self-Discipline,3379,NEO_Self-Discipline,NEO_Self-Discipline_05
+NEO,0.85,-1,Find it difficult to get down to work.,Self-Discipline,3380,NEO_Self-Discipline,NEO_Self-Discipline_06
+NEO,0.85,-1,Need a push to get started.,Self-Discipline,3381,NEO_Self-Discipline,NEO_Self-Discipline_07
+NEO,0.85,-1,Have difficulty starting tasks.,Self-Discipline,3382,NEO_Self-Discipline,NEO_Self-Discipline_08
+NEO,0.85,-1,Postpone decisions.,Self-Discipline,3383,NEO_Self-Discipline,NEO_Self-Discipline_09
+NEO,0.85,-1,Waste my time.,Self-Discipline,3384,NEO_Self-Discipline,NEO_Self-Discipline_10
+NEO,0.78,1,Excel in what I do.,Self-Efficacy,3385,NEO_Self-Efficacy,NEO_Self-Efficacy_01
+NEO,0.78,1,Come up with good solutions.,Self-Efficacy,3386,NEO_Self-Efficacy,NEO_Self-Efficacy_02
+NEO,0.78,1,Know how to get things done.,Self-Efficacy,3387,NEO_Self-Efficacy,NEO_Self-Efficacy_03
+NEO,0.78,1,Complete tasks successfully.,Self-Efficacy,3388,NEO_Self-Efficacy,NEO_Self-Efficacy_04
+NEO,0.78,1,Handle tasks smoothly.,Self-Efficacy,3389,NEO_Self-Efficacy,NEO_Self-Efficacy_05
+NEO,0.78,1,Am sure of my ground.,Self-Efficacy,3390,NEO_Self-Efficacy,NEO_Self-Efficacy_06
+NEO,0.78,-1,Misjudge situations.,Self-Efficacy,3391,NEO_Self-Efficacy,NEO_Self-Efficacy_07
+NEO,0.78,-1,Don't understand things.,Self-Efficacy,3392,NEO_Self-Efficacy,NEO_Self-Efficacy_08
+NEO,0.78,-1,Don't see the consequences of things.,Self-Efficacy,3393,NEO_Self-Efficacy,NEO_Self-Efficacy_09
+NEO,0.78,-1,Have little to contribute.,Self-Efficacy,3394,NEO_Self-Efficacy,NEO_Self-Efficacy_10
+NEO,0.75,1,Feel sympathy for those who are worse off than myself.,Sympathy,3395,NEO_Sympathy,NEO_Sympathy_01
+NEO,0.75,1,Value cooperation over competition.,Sympathy,3396,NEO_Sympathy,NEO_Sympathy_02
+NEO,0.75,1,Sympathize with the homeless.,Sympathy,3397,NEO_Sympathy,NEO_Sympathy_03
+NEO,0.75,1,Suffer from others' sorrows.,Sympathy,3398,NEO_Sympathy,NEO_Sympathy_04
+NEO,0.75,-1,Believe people should fend for themselves.,Sympathy,3399,NEO_Sympathy,NEO_Sympathy_05
+NEO,0.75,-1,Try not to think about the needy.,Sympathy,3400,NEO_Sympathy,NEO_Sympathy_06
+NEO,0.75,-1,Tend to dislike soft-hearted people.,Sympathy,3401,NEO_Sympathy,NEO_Sympathy_07
+NEO,0.75,-1,Believe in an eye for an eye.,Sympathy,3402,NEO_Sympathy,NEO_Sympathy_08
+NEO,0.75,-1,Can't stand weak people.,Sympathy,3403,NEO_Sympathy,NEO_Sympathy_09
+NEO,0.75,-1,Am not interested in other people's problems.,Sympathy,3404,NEO_Sympathy,NEO_Sympathy_10
+NEO,0.82,1,Believe that people are basically moral.,Trust,3405,NEO_Trust,NEO_Trust_01
+NEO,0.82,1,Believe that others have good intentions.,Trust,3406,NEO_Trust,NEO_Trust_02
+NEO,0.82,1,Trust others.,Trust,3407,NEO_Trust,NEO_Trust_03
+NEO,0.82,1,Believe in human goodness.,Trust,3408,NEO_Trust,NEO_Trust_04
+NEO,0.82,1,Think that all will be well.,Trust,3409,NEO_Trust,NEO_Trust_05
+NEO,0.82,1,Trust what people say.,Trust,3410,NEO_Trust,NEO_Trust_06
+NEO,0.82,-1,Believe that people are essentially evil.,Trust,3411,NEO_Trust,NEO_Trust_07
+NEO,0.82,-1,Distrust people.,Trust,3412,NEO_Trust,NEO_Trust_08
+NEO,0.82,-1,Suspect hidden motives in others.,Trust,3413,NEO_Trust,NEO_Trust_09
+NEO,0.82,-1,Am wary of others.,Trust,3414,NEO_Trust,NEO_Trust_10
+NEO,0.82,1,Panic easily.,Vulnerability,3415,NEO_Vulnerability,NEO_Vulnerability_01
+NEO,0.82,1,Get overwhelmed by emotions.,Vulnerability,3416,NEO_Vulnerability,NEO_Vulnerability_02
+NEO,0.82,1,Feel that I'm unable to deal with things.,Vulnerability,3417,NEO_Vulnerability,NEO_Vulnerability_03
+NEO,0.82,1,Can't make up my mind.,Vulnerability,3418,NEO_Vulnerability,NEO_Vulnerability_04
+NEO,0.82,1,Become overwhelmed by events.,Vulnerability,3419,NEO_Vulnerability,NEO_Vulnerability_05
+NEO,0.82,-1,Remain calm under pressure.,Vulnerability,3420,NEO_Vulnerability,NEO_Vulnerability_06
+NEO,0.82,-1,Am calm even in tense situations.,Vulnerability,3421,NEO_Vulnerability,NEO_Vulnerability_07
+NEO,0.82,-1,Can handle complex problems.,Vulnerability,3422,NEO_Vulnerability,NEO_Vulnerability_08
+NEO,0.82,-1,Readily overcome setbacks.,Vulnerability,3423,NEO_Vulnerability,NEO_Vulnerability_09
+NEO,0.82,-1,Know how to cope.,Vulnerability,3424,NEO_Vulnerability,NEO_Vulnerability_10
